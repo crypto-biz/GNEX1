@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- 深蓝色部分 -->
+  <path fill="#0055a4" d="M150,200 L50,330 L150,460 L280,330 Z" />
+  <!-- 浅蓝色部分 -->
+  <path fill="#00a0e9" d="M350,40 L220,170 L350,300 L450,170 Z" />
+  <!-- TM标记 -->
+  <text x="450" y="140" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="#00a0e9">TM</text>
+</svg>
